@@ -17,11 +17,11 @@ This project focuses on **exploratory data analysis (EDA)** and **business insig
 - season: season (1: spring, 2: summer, 3: fall, 4: winter)
 - holiday : whether day is a holiday or not
 - workingday : if day is neither weekend nor holiday is 1, otherwise is 0.
-- weather:
-  -- Clear, Few clouds, partly cloudy
-  -- Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
-  -- Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
-  -- Heavy Rain + Ice Pellets + Thunderstorm + Mist, Snow + Fog
+- Weather Conditions:
+  - Clear, Few clouds, Partly cloudy
+  - Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
+  - Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
+  - Heavy Rain + Ice Pellets + Thunderstorm + Mist, Snow + Fog
 - temp: temperature in Celsius
 - atemp: feeling temperature in Celsius
 - humidity: humidity
